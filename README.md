@@ -6,7 +6,7 @@
 
 ## What It Does
 
-[2-3 sentences describing the functionality. What problem does it solve? What does it enable?]
+[Describe the functionality. What problem does it solve? What does it enable?]
 
 ## Why This Should Win
 
@@ -24,7 +24,6 @@
 ### Steps
 
 1. Clone this repo into your workspace
-2. Copy `.env.example` to `.env` and fill in your values
 3. [Any additional setup steps]
 
 ```bash
@@ -61,7 +60,7 @@ See the `/demo` folder for:
 
 - **Files:** List main files and their purposes
 - **Dependencies:** External packages or APIs used
-- **openclaw.json changes (if any):** Document what gets modified and why
+- **openclaw.json changes (if any):** Document what gets modified and why (make sure to explain the tradeoffs)
 
 ---
 
