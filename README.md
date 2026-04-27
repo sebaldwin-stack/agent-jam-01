@@ -1,6 +1,6 @@
 # [Skill Name]
 
-*A brief one-line description of what your skill does*
+*A brief 3-5 line description of what your skill does*
 
 ---
 
